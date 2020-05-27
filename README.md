@@ -20,6 +20,7 @@ If you want to, you can build the RESH project from source using `make build` (i
 
 ## Visualization
 
+```
 .
 ├── README.md ..... the file with description of the contents of this medium
 ├── release ...... the directory with tarballs of the latest release of RESH
@@ -35,4 +36,4 @@ If you want to, you can build the RESH project from source using `make build` (i
 │       └── *.tex ................ the LATEX source code files of the thesis
 └── text ......................................... the thesis text directory
     └── thesis.pdf ................................ the thesis in PDF format
-
+```
