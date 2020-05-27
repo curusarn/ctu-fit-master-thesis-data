@@ -14,7 +14,9 @@ https://github.com/curusarn/resh
 
 ## Building from source
 
-If you want to you can build the RESH project from source using `make build` (in the RESH project directory). You will need to install build dependencies first. Build and install the project using `make install`.
+If you want to, you can build the RESH project from source using `make build` (in the RESH project directory). You will need to install Go first. Build and install the project using `make install`.
+
+
 
 ## Visualization
 
