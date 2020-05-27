@@ -1,0 +1,6 @@
+[submodule "src/resh"]
+	path = src/resh
+	url = https://github.com/curusarn/resh.git
+[submodule "src/thesis"]
+	path = src/thesis
+	url = https://github.com/curusarn/ctu-fit-master-thesis.git
